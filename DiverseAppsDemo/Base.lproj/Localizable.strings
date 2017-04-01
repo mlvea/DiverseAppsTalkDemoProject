@@ -1,0 +1,27 @@
+/* Number of friends online */
+"%d friend is online" = "%d friend is online";
+
+/* Number of friends online */
+"%d friends are online" = "%d friends are online";
+
+/* Cell title for Currency Formatter Demo */
+"Currency Number Formatter" = "Currency Number Formatter";
+
+/* Cell title for decimal number */
+"Decimal Number Formatter" = "Decimal Number Formatter";
+
+/* Date from fixed format string */
+"Fixed Format date" = "Fixed Format date";
+
+/* Cell Title for image localization */
+"Image Localization" = "Image Localization";
+
+/* Cell Title for Plural noun localization demo */
+"Plural noun(Same String as above)" = "Plural noun(Same String as above)";
+
+/* Pre defined Date format */
+"Predefined Short Date format" = "Predefined Short Date format";
+
+/* Cell Title for Singular noun localization demo */
+"Singular noun" = "Singular noun";
+

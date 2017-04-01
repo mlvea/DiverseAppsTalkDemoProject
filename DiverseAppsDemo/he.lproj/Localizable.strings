@@ -1,0 +1,24 @@
+/* Number of friends online */
+"%d friends are online" = "% D חברים מחוברים";
+
+/* Cell title for Currency Formatter Demo */
+"Currency Number Formatter" = "פורמט מספר מטבע";
+
+/* Cell title for decimal number */
+"Decimal Number Formatter" = "מספר עשרוני מספר";
+
+/* Date from fixed format string */
+"Fixed Format date" = "תאריך פורמט קבוע";
+
+/* Cell Title for image localization */
+"Image Localization" = "לוקליזציה של תמונות";
+
+/* Cell Title for Plural noun localization demo */
+"Plural noun(Same String as above)" = "שם העצם (אותו מחרוזת כנ\"ל)";
+
+/* Pre defined Date format */
+"Predefined Short Date format" = "תבנית תאריך קצר מראש";
+
+/* Cell Title for Singular noun localization demo */
+"Singular noun" = "שם עצם יחיד";
+

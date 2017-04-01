@@ -1,0 +1,24 @@
+/* Number of friends online */
+"%d friends are online" = "％d个朋友在线";
+
+/* Cell title for Currency Formatter Demo */
+"Currency Number Formatter" = "货币编号格式";
+
+/* Cell title for decimal number */
+"Decimal Number Formatter" = "十进制格式化器";
+
+/* Date from fixed format string */
+"Fixed Format date" = "固定格式日期";
+
+/* Cell Title for image localization */
+"Image Localization" = "图像定位";
+
+/* Cell Title for Plural noun localization demo */
+"Plural noun(Same String as above)" = "多个名词（与上述相同的字符串）";
+
+/* Pre defined Date format */
+"Predefined Short Date format" = "预定义短日期格式";
+
+/* Cell Title for Singular noun localization demo */
+"Singular noun" = "单数名词";
+
